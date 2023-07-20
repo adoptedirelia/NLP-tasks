@@ -1,0 +1,7 @@
+data: 
+  batch_size: 1024
+  emb_size: 64
+  hidden_size: 256
+  lr: 0.1
+  epoch: 40
+  

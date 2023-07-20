@@ -1,0 +1,6 @@
+data:
+  lr: 0.001
+  batch_size: 512
+  epoch: 40
+  emb_sz: 256
+  test_num: 5

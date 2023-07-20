@@ -1,0 +1,17 @@
+data:
+  batch_size: 128
+  lr: 0.01
+  epoch: 40
+  num_steps: 200
+  num_hiddens: 32
+  num_layers: 2
+  dropout: 0.1
+  ffn_num_input: 32
+  ffn_num_hiddens: 64
+  num_heads: 4
+  key_size: 32
+  query_size: 32
+  value_size: 32
+  norm_shape: [32]
+
+
